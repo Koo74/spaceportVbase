@@ -22,7 +22,8 @@
 
 Open the link, click a region, click **Analyse** — get instant results.
 
-No signup. No API keys. No configuration. 
+No signup. No API keys. No configuration. <a href="https://buymeacoffee.com/stargazex" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" > </a>
+
 ---
 
 ## 🎯 What Is SpaceportVbase?
