@@ -41,8 +41,11 @@ It combines **live geospatial data**, **real-time weather**, **geographic scorin
 | Region | Coverage | Sites | Candidates |
 |---|---|---|---|
 | 🏝️ **SpaceportVbase Borneo** | Sabah & Sarawak | 250+ | 40 |
-| 🌏 **SpaceportVbase West Malaysia** | Peninsular Malaysia (11 states) | 200+ | 80 | <a href="https://buymeacoffee.com/stargazex" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+| 🌏 **SpaceportVbase West Malaysia** | Peninsular Malaysia (11 states) | 200+ | 80 | <a href="https://www.buymeacoffee.com/stargazex" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" 
+       alt="Buy Me A Coffee" 
+       height="41" 
+       width="174">
 </a>
 
 ☕ Support
